@@ -1310,5 +1310,549 @@ file = "options.txt"
 hash = "dad85fbfb4d6ccf0e845371741879524abdae43d4820fbcf7a20a4242b83ce64"
 
 [[files]]
+file = "saves/Galaxy Gates/AE2/compass/0_-1024_-1024.dat"
+hash = "64c44f8d5bfa7db5c112fe73c23ef455352f01f2d3d7cbdff7ae2c3be5e707cb"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/compass/0_-1024_0.dat"
+hash = "a7737d74aa9a6dbea3936422e31bd15ecbb0f74c03464b78da95a0fd551ee068"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/compass/0_0_0.dat"
+hash = "75c3188fbfad785b2e2e6f7938d4cc01dbb811c94740b7643b17e256b5abdf24"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/settings.cfg"
+hash = "f239d485360a4de6fc37e5367c5335573cc4350bff64bec71334ec009c6d29e4"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_-1_-1.dat"
+hash = "28a75e3f30e7c82ebcefbcdaca81de71882638457bba999f7f76d9ac063f31b0"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_-1_0.dat"
+hash = "3a53e0a599f39841c0df2c2c6c775749ef4db1871fa54c052095e321fe7b3be1"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_-1_1.dat"
+hash = "feed58e00d0d2eb8a6647a735caae5037705c0b30b1b47d2a913812ae6d9a9a4"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_0_-1.dat"
+hash = "12e09644361c5436d8ad02a232e158c723c6a5aec815955136a66a0154f76d8c"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_0_0.dat"
+hash = "ec7c1dff94b1581911f5f339011e6323bafd4bfa61d5c07d2b08e08ec7580514"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_0_1.dat"
+hash = "e79cbfe6e2199f919020dd2dd39153614a8ab4e20688c353c316f44e42faebcc"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_1_-1.dat"
+hash = "b376be0ea23ab08131d7be11a5514526bef4440c85af43bad69691ef6eef08ab"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_1_0.dat"
+hash = "f4d9bbcc2d088d9770fc3b6a12b87a02fdae3c023543cdc5cd72951ac1a80684"
+
+[[files]]
+file = "saves/Galaxy Gates/AE2/spawndata/0_1_1.dat"
+hash = "2ebd8874ccd1db485fc5bd1eb7a2fc03e7728461c85d55d323c39e415121ddb8"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-1/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-1/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-1/data/villages_nether.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-1/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-1/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-1/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-11325/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-11325/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-11325/data/villages_deep.dark.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-11325/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-11325/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-11325/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-12/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-12/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-12/data/villages_sphere_world.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-12/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-12/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-12/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-6/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-6/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-6/data/villages_mining_world.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-6/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-6/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-6/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-9999/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-9999/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-9999/data/villages_extrautilsquarrydim.dat"
+hash = "1ea5a1ad12b8a426e161b7b235e7cacca64d238bf7da0c2788c9fb43e02d6bef"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-9999/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-9999/multipart.dat"
+hash = "b30aaa89756594703842c0bb672029dd776010e1334cee10e3c235b5d0a893e9"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM-9999/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM1/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM1/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM1/data/villages_end.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM1/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM1/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM1/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM144/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM144/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM144/data/villages_suffix.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM144/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM144/multipart.dat"
+hash = "63e322175f78daa4513798b6878348ca8f36b2aa9e207cad9489a23fe05f6c7a"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM144/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM2/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM2/data/capabilities.dat"
+hash = "36336243b83babfbccabfa81215d5b3e7ef0624e2ace84d838f2fe5bc2a895b1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM2/data/villages_cell.dat"
+hash = "1ea5a1ad12b8a426e161b7b235e7cacca64d238bf7da0c2788c9fb43e02d6bef"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM2/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM2/multipart.dat"
+hash = "b30aaa89756594703842c0bb672029dd776010e1334cee10e3c235b5d0a893e9"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM2/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM28885/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM28885/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM28885/data/villages_hunting.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM28885/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM28885/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/DIM28885/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/Hyperspace/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/Hyperspace/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/Hyperspace/data/villages_hyperspace.dat"
+hash = "1ea5a1ad12b8a426e161b7b235e7cacca64d238bf7da0c2788c9fb43e02d6bef"
+
+[[files]]
+file = "saves/Galaxy Gates/Hyperspace/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/Hyperspace/multipart.dat"
+hash = "b30aaa89756594703842c0bb672029dd776010e1334cee10e3c235b5d0a893e9"
+
+[[files]]
+file = "saves/Galaxy Gates/Hyperspace/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/RuinsPositionsFile.txt"
+hash = "59c3c294910d7c71a96db70ac545c7c8f73c7fc2ec7d056d957275998c0c1152"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM-2/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM-2/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM-2/data/villagesplanet.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM-2/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM-2/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM-2/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/data/reccomplex-structuredata.dat"
+hash = "0a34a47d80976614952119b069b5ad65bd4a83d28484a745d9a49c25b3b39699"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/data/villagesplanet.dat"
+hash = "d918836cd89cd32926c7b4955190f5b61b931175432179c4b21dff5d214659ac"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/multipart.dat"
+hash = "7453954d45c764e377cdd62c8d9055ae41413155304301ed7be315b294b156aa"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/region/r.-1.-1.mca"
+hash = "1160b227742da48ef4fb23a661ed62056892478a28651fd25297c4ebcaf2feb9"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/region/r.-1.0.mca"
+hash = "a8ac64f60738419c2a86e6c2de4526195918ed698e5741a0971fc4a236010de6"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/region/r.0.-1.mca"
+hash = "6dd5db6f0fd557626f680fa57304145690e89bb7f212f217b226186252fc0bde"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/region/r.0.0.mca"
+hash = "dfe27fee36d2a2ecc0f29762112ae6b261c7f7c489dfcb8b02b22b5e135f4a10"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/DIM3/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/planetDefs.xml"
+hash = "35aafd87e05f4e447b39aff4888db2fb97e2e3a6d76d115a525e5f424d4bae86"
+
+[[files]]
+file = "saves/Galaxy Gates/advRocketry/temp.dat"
+hash = "d937476564c4f773b750e5ba49503c7802ab2fb9278479cf5845f66fd36f5185"
+
+[[files]]
+file = "saves/Galaxy Gates/advancements/8988ce40-8f56-4322-b2d1-116bbd513d33.json"
+hash = "ef279cedf86ee903392358711d36ed420617470b21e24f1a6a717ef9f9484dc3"
+
+[[files]]
+file = "saves/Galaxy Gates/data/Mineshaft.dat"
+hash = "2ed3da7805bbe97436ee58c88cdf2d37bf1454cf24081cc3c538287bdc8d5002"
+
+[[files]]
+file = "saves/Galaxy Gates/data/Temple.dat"
+hash = "c021e057bce65399c71ae1ef1813d9c61eb6fdf6e189b8aaa549a3a533d8d18e"
+
+[[files]]
+file = "saves/Galaxy Gates/data/Village.dat"
+hash = "ba60c3f7189541bcf012d619a52e0510c919cc241539da6420588c2868d74f0e"
+
+[[files]]
+file = "saves/Galaxy Gates/data/WorldSavedDataMachines.dat"
+hash = "7c5b65eba341744deea603032057e8a6f034486995c4de5242c5745c0f7c25d9"
+
+[[files]]
+file = "saves/Galaxy Gates/data/WorldUUID.dat"
+hash = "0aa555b41e190af202eb6d65c86a669cc56f623f1197122cf19b2fe43e75fb76"
+
+[[files]]
+file = "saves/Galaxy Gates/data/XU2SaveData.dat"
+hash = "4041f715dc3b7318044e0be17cc02a2ca0d00c67d73d43509fdb4ca14b7a0bb9"
+
+[[files]]
+file = "saves/Galaxy Gates/data/actuallyadditionsdata.dat"
+hash = "7a73c6887e7470ad75773255d0396a53ea2d49c05588b5d6ee5ae64ffd7aab31"
+
+[[files]]
+file = "saves/Galaxy Gates/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/data/fluxnetworksdata.dat"
+hash = "349793b1ed098f28838cae4625847a6e45bb432a335189d0f3bc7005e9547f40"
+
+[[files]]
+file = "saves/Galaxy Gates/data/ftb_lib/players/cyclonis_xui.dat"
+hash = "7bf83e1f615a743fd3ffcea9a1c852c53ae93f24a1b5095a6d6fedeec16c2934"
+
+[[files]]
+file = "saves/Galaxy Gates/data/ftb_lib/universe.dat"
+hash = "a72400f8b9306168841a5bd0cadcf73860a29e65faea60b9bed9da8e6bb6e916"
+
+[[files]]
+file = "saves/Galaxy Gates/data/reccomplex-structuredata.dat"
+hash = "abe1d89fe85a740e25c98e8b47a71780f3de3bce9995ab4af9d6ec8829d7b88e"
+
+[[files]]
+file = "saves/Galaxy Gates/data/ruinschunklogger.dat"
+hash = "92aeb46e016b3221fc27df58a1e04967aac9775c884b1423911a546ce7d59f3d"
+
+[[files]]
+file = "saves/Galaxy Gates/data/sgcraft-dimension_map.dat"
+hash = "94f72a7627dd4810334c046529ad9f75f4972f4b9693452e7140b96f9fbe96f7"
+
+[[files]]
+file = "saves/Galaxy Gates/data/villages.dat"
+hash = "1ea5a1ad12b8a426e161b7b235e7cacca64d238bf7da0c2788c9fb43e02d6bef"
+
+[[files]]
+file = "saves/Galaxy Gates/data/waystones_NameGenerator.dat"
+hash = "0122682a8aa7169bdebb931f5386d4d819b3815c174a7111ecd2182a4341aabb"
+
+[[files]]
+file = "saves/Galaxy Gates/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/level.dat"
+hash = "80ba357cc2211b0a66a12471216bbc3549fca8f95809608256428477cf905320"
+
+[[files]]
+file = "saves/Galaxy Gates/level.dat_old"
+hash = "495dd8b691f013ff4df8b18b059f49ac33c7d28151f1bb5060ad86cd81fdce39"
+
+[[files]]
+file = "saves/Galaxy Gates/multipart.dat"
+hash = "b30aaa89756594703842c0bb672029dd776010e1334cee10e3c235b5d0a893e9"
+
+[[files]]
+file = "saves/Galaxy Gates/playerdata/8988ce40-8f56-4322-b2d1-116bbd513d33.dat"
+hash = "4ead231392663089b882fc7df6facabfe2473b9624756700ca3dcda8686b2d4a"
+
+[[files]]
+file = "saves/Galaxy Gates/region/r.-1.-1.mca"
+hash = "a1b79a019c6e65f53727a33fb79c52223b88351ef1a7cc036f13321a688d20d5"
+
+[[files]]
+file = "saves/Galaxy Gates/region/r.-1.0.mca"
+hash = "298d6f8fe893de1dba8ae1b6655ec0109fc0dc4747254210855793bac0ebff04"
+
+[[files]]
+file = "saves/Galaxy Gates/region/r.0.-1.mca"
+hash = "b42ce8ddf0d661eb529949d21e0f629754cf438282e9b2943ad7bc019900351f"
+
+[[files]]
+file = "saves/Galaxy Gates/region/r.0.0.mca"
+hash = "3e8ff32b35f5ad74f7db643fef9a243ce2831edd3dbe770bf40335000bbd3c96"
+
+[[files]]
+file = "saves/Galaxy Gates/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/secretroomsmod_data.dat"
+hash = "ee7a8e675fcb796134658eadb6661b7ef96df2ba2a8010dcac9d22c46924edfb"
+
+[[files]]
+file = "saves/Galaxy Gates/session.lock"
+hash = "96adadbb5ac84af1ea530b91c904fe3f10b741aa57c46a68521b808757b79f64"
+
+[[files]]
+file = "saves/Galaxy Gates/solarSystem/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/solarSystem/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/solarSystem/data/villages_space.dat"
+hash = "1ea5a1ad12b8a426e161b7b235e7cacca64d238bf7da0c2788c9fb43e02d6bef"
+
+[[files]]
+file = "saves/Galaxy Gates/solarSystem/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/solarSystem/multipart.dat"
+hash = "b30aaa89756594703842c0bb672029dd776010e1334cee10e3c235b5d0a893e9"
+
+[[files]]
+file = "saves/Galaxy Gates/solarSystem/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
+file = "saves/Galaxy Gates/stats/8988ce40-8f56-4322-b2d1-116bbd513d33.json"
+hash = "2f377970e1d4f6c319db438b7e3571fbf60356282ec11985327c667314599310"
+
+[[files]]
+file = "saves/Galaxy Gates/warpdrive.dat"
+hash = "0477211a6ac43aa66ce28bdda4fb39dc4807a2a5b83eb137104269d9f5c59d7e"
+
+[[files]]
+file = "saves/Galaxy Gates/woot_tartarus/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Galaxy Gates/woot_tartarus/data/capabilities.dat"
+hash = "fa3f77aa90e3ad6eb53fdda26312075770fb019d4e820dbda81b972f6764cf6c"
+
+[[files]]
+file = "saves/Galaxy Gates/woot_tartarus/data/villages_lootlearn.dat"
+hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
+
+[[files]]
+file = "saves/Galaxy Gates/woot_tartarus/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Galaxy Gates/woot_tartarus/multipart.dat"
+hash = "45c6dccc7e794de02803ddcacaf0b393098c021278d1bb0edf127c0b8ae950d1"
+
+[[files]]
+file = "saves/Galaxy Gates/woot_tartarus/ruins.txt"
+hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
+
+[[files]]
 file = "scripts/recipes.zs"
 hash = "3c641f8c67d7748e6004340d8c912a83e22820f0a9b68c36b8ccfddc843067e6"
