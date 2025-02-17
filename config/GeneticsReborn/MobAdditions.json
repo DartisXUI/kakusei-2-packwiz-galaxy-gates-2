@@ -1,0 +1,9 @@
+{
+  "EntityShulker": [
+    "resistance",
+    "levitation"
+  ],
+  "EntityChicken": [
+    "levitation"
+  ]
+}
