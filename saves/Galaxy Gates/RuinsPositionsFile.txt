@@ -9,15 +9,17 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
--97 63 344 -93 65 348 EmeraldOreOutcrop.tml
--88 66 202 -85 72 205 dartiscraft-ancient-repository-mk3f.tml
--86 64 67 -80 76 72 dartiscraft-xmarksthespot-tnt-kree.tml
--26 68 334 -19 90 341 dartiscraft-gazebo-chitauri-energy-core-and-metal.tml
--9 70 180 4 80 193 dartiscraft-tombtrap-ae2.tml
-47 63 46 50 69 49 dartiscraft-ancient-repository-mk3l.tml
-57 69 324 62 81 330 dartiscraft-xmarksthespot-tnt-kree.tml
-100 61 231 103 63 234 dartiscraft-goldrush.tml
-115 67 82 128 99 95 OreSpire.tml
-172 70 304 187 108 317 dartiscraft-lighthouse-tesseract-configurator.tml
-213 68 -62 246 92 -12 dartiscraft-ancient-repository-cavern-mk9.tml
-216 64 145 219 70 148 dartiscraft-ancient-repository-mk3r.tml
+-325 64 366 -320 76 372 dartiscraft-xmarksthespot-tnt-kree-typesand.tml
+-318 63 252 -315 69 255 dartiscraft-ancient-repository-mk3l.tml
+-249 65 303 -243 77 308 dartiscraft-xmarksthespot-tnt-kree-typegrass.tml
+-243 64 207 -230 102 222 dartiscraft-lighthouse-tesseract-configurator.tml
+-197 69 428 -193 71 432 EmeraldOreOutcrop.tml
+-114 69 363 -111 75 366 dartiscraft-ancient-repository-mk3r.tml
+-55 69 271 -44 96 282 dartiscraft-birchoutpost-uru-thor.tml
+-53 66 -97 -49 68 -93 EmeraldOreOutcrop.tml
+-46 62 403 -43 64 406 dartiscraft-goldrush.tml
+-44 67 155 -37 89 162 dartiscraft-gazebo-chitauri-energy-core-and-metal.tml
+-16 64 -20 -11 76 -14 dartiscraft-xmarksthespot-tnt-kree-typegrass.tml
+13 55 86 16 57 89 dartiscraft-goldrush.tml
+73 66 4 76 72 7 dartiscraft-ancient-repository-mk3f.tml
+74 62 300 80 74 305 dartiscraft-xmarksthespot-tnt-kree-typegrass.tml
